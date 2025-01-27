@@ -1,17 +1,35 @@
 .image1 {
-    position: absolute;
-    top: 50px;
-    left: 50px;
+    width: 300px;
+}
+.image1boby {
+    text-align: center;
+  font-family: 'Times New Roman, Times, serif';
+  background: rgb(243, 3, 3);
+  color: aqua;
 }
 
 .image2 {
-    position: absolute;
-    top: 200px;
-    left: 100px;
+    width: 300px;
+}
+.image2body {
+    text-align: right;
+  font-family: 'Times New Roman, Times, serif';
+  background: rgb(243, 3, 3);
+  color: aqua;
 }
 
 .image3 {
-    position: absolute;
-    top: 350px;
-    left: 150px;
+    width:300px;
+}
+.image3body{
+    text-align: left;
+  font-family: 'Times New Roman, Times, serif';
+  background: rgb(243, 3, 3);
+  color: aqua;
+}
+body{
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    background: rgb(176, 49, 49);
+    color:rgb(14, 109, 234);
 }
