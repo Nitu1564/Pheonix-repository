@@ -7,4 +7,12 @@ body{
     background: rgb(247, 34, 34);
     color:aqua;
 }
+img{
+    widt:300px;
+}
+body{
+    text-align:left;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
 
